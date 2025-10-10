@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/347b183a-e02e-464a-a180-ed2963969f84.svg)](https://wakatime.com/@347b183a-e02e-464a-a180-ed2963969f84)[![HEAD~1](https://img.shields.io/badge/HEAD~-1-brightgreen?style=flat)](https://github.com/bilirumble)
 ---
-<h3 align="right">👋Number of views</h4>
+<h3 align="right">👋Number of views</h3>
 <img align="right" src="https://moe-counter.glitch.me/get/@:bilirumble?theme=rule34">
 
 ### 🌗 Development Breakdown
