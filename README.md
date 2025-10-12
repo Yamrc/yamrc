@@ -7,8 +7,8 @@
 
 ### 🌗 Development Breakdown
 
-<img src="https://githubstats.rumbl.top/api?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
-<img src="https://githubstats.rumbl.top/api/top-langs/?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
+<img src="https://githubstats.yamr.cc/api?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+<img src="https://githubstats.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamrc&theme=blueberry&hide_border=true">
 
 <!-- 
