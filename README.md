@@ -12,7 +12,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamrc&theme=blueberry&hide_border=true">
 
 <!-- 
-  Account Timeline:
   HEAD~1: bilirumble (locked) 
   HEAD: yamrc (active)
 
