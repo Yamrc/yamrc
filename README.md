@@ -14,6 +14,4 @@
 <!--
   HEAD~1: bilirumble (locked)
   HEAD: yamrc (active)
-
-  你马上就要浮出水面了（大雾）
 -->
