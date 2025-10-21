@@ -7,9 +7,9 @@
 
 ### 🌗 Development Breakdown
 
-<img src="https://githubstats.yamr.cc/api?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
-<img src="https://githubstats.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamrc&theme=blueberry&hide_border=true">
+<img src="https://stats.ght.yamr.cc/api?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+<img src="https://stats.ght.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
+<img src="https://streak.ght.yamr.cc?user=yamrc&theme=blueberry&hide_border=true">
 
 <!--
   HEAD~1: bilirumble (locked)
