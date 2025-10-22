@@ -6,10 +6,11 @@
 <img align="right" src="https://counter.t.yamr.cc/@:bilirumble?theme=rule34">
 
 ### 🌗 Development Breakdown
+[![Stats](https://stats.ght.yamr.cc/api?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yamrc)
 
-<img src="https://stats.ght.yamr.cc/api?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
-<img src="https://stats.ght.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
-<img src="https://streak.ght.yamr.cc?user=yamrc&theme=blueberry&hide_border=true">
+[![Top Languages](https://stats.ght.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&show_icons=true&hide_border=true&layout=compact)](https://github.com/Yamrc)
+
+[![Streak)](https://streak.ght.yamr.cc?user=yamrc&theme=blueberry&hide_border=true)](https://github.com/Yamrc)
 
 <!-- 
   HEAD~1: bilirumble (locked) 
