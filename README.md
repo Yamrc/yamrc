@@ -16,8 +16,20 @@
   <img src="https://statsgi.t.yamr.cc/api?username=yamrc&theme=default&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" />
 </picture>
 
-[![Top Languages](https://statsgi.t.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&bg_color=00000000&show_icons=true&hide_border=true&layout=compact)](https://github.com/Yamrc)
-[![Streak)](https://streakgi.t.yamr.cc?user=yamrc&theme=blueberry&background=00000000&hide_border=true)](https://github.com/Yamrc)
+<picture>
+  <source
+    srcset="https://statsgi.t.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&bg_color=00000000&show_icons=true&hide_border=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://statsgi.t.yamr.cc/api/top-langs/?username=yamrc&theme=default&bg_color=00000000&show_icons=true&hide_border=true&layout=compact" />
+</picture>
+<picture>
+  <source
+    srcset="https://streakgi.t.yamr.cc?user=yamrc&theme=blueberry&background=00000000&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://streakgi.t.yamr.cc?user=yamrc&theme=default&background=00000000&hide_border=true" />
+</picture>
 
 <!-- 
   没啥想法，以后再改改 :D
