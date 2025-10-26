@@ -28,10 +28,9 @@
     srcset="https://streakgi.t.yamr.cc?user=yamrc&theme=blueberry&background=00000000&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://streakgi.t.yamr.cc?user=yamrc&theme=default&background=00000000&hide_border=true" />
+  <img src="https://streakgi.t.yamr.cc?user=yamrc&theme=meta-light&background=00000000&hide_border=true" />
 </picture>
 
 <!-- 
   没啥想法，以后再改改 :D
-  CCB
 -->
