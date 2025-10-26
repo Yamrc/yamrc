@@ -7,7 +7,14 @@
 
 ---
 <a href="https://coun.t.yamr.cc"><img src="https://coun.t.yamr.cc/@:me?theme=rule34" height="100" align="right"></a>
-[![Stats](https://statsgi.t.yamr.cc/api?username=yamrc&theme=blueberry&bg_color=00000000&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yamrc)
+
+<picture>
+  <source
+    srcset="https://statsgi.t.yamr.cc/api?username=yamrc&theme=blueberry&bg_color=00000000&show_icons=true&hide_border=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://statsgi.t.yamr.cc/api?username=yamrc&theme=default&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" />
+</picture>
 
 [![Top Languages](https://statsgi.t.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&bg_color=00000000&show_icons=true&hide_border=true&layout=compact)](https://github.com/Yamrc)
 [![Streak)](https://streakgi.t.yamr.cc?user=yamrc&theme=blueberry&background=00000000&hide_border=true)](https://github.com/Yamrc)
