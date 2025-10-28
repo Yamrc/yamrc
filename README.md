@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/347b183a-e02e-464a-a180-ed2963969f84.svg?style=for-the-badge)](https://wakatime.com/@yamrc)
 
 ---
-<a href="https://coun.t.yamr.cc"><img src="https://coun.t.yamr.cc/@:me?theme=rule34" height="100" align="right"></a>
+<a href="https://coun.t.yamr.cc"><img src="https://coun.t.yamr.cc/@me?theme=rule34" height="100" align="right"></a>
 
 <picture>
   <source
