@@ -10,25 +10,25 @@
 
 <picture>
   <source
-    srcset="https://statsgi.t.yamr.cc/api?username=yamrc&theme=blueberry&bg_color=00000000&hide_border=true&custom_title=Github%20Stats"
+    srcset="https://statsgi.t.yamr.cc/api?username=Yamrc&theme=blueberry&bg_color=00000000&hide_border=true&custom_title=Github%20Stats"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://statsgi.t.yamr.cc/api?username=yamrc&theme=default&bg_color=00000000&hide_border=true&custom_title=Github%20Stats" />
+  <img src="https://statsgi.t.yamr.cc/api?username=Yamrc&theme=default&bg_color=00000000&hide_border=true&custom_title=Github%20Stats" />
 </picture>
 
 <picture>
   <source
-    srcset="https://statsgi.t.yamr.cc/api/top-langs/?username=yamrc&theme=blueberry&bg_color=00000000&hide_border=true&custom_title=Top%20Languages&layout=compact"
+    srcset="https://statsgi.t.yamr.cc/api/top-langs/?username=Yamrc&theme=blueberry&bg_color=00000000&hide_border=true&custom_title=Top%20Languages&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://statsgi.t.yamr.cc/api/top-langs/?username=yamrc&theme=default&bg_color=00000000&hide_border=true&custom_title=Top%20Languages&layout=compact" />
+  <img src="https://statsgi.t.yamr.cc/api/top-langs/?username=Yamrc&theme=default&bg_color=00000000&hide_border=true&custom_title=Top%20Languages&layout=compact" />
 </picture>
 <picture>
   <source
-    srcset="https://streakgi.t.yamr.cc?user=yamrc&theme=blueberry&background=00000000&hide_border=true"
+    srcset="https://streakgi.t.yamr.cc?user=Yamrc&theme=blueberry&background=00000000&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://streakgi.t.yamr.cc?user=yamrc&theme=meta-light&background=00000000&hide_border=true" />
+  <img src="https://streakgi.t.yamr.cc?user=Yamrc&theme=meta-light&background=00000000&hide_border=true" />
 </picture>
 
 <!-- 
