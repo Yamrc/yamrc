@@ -30,7 +30,3 @@
   />
   <img src="https://streakgi.t.yamr.cc?user=Yamrc&theme=meta-light&background=00000000&hide_border=true" />
 </picture>
-
-<!-- 
-  没啥想法，以后再改改 :D
--->
